@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Hi..! what's your name?",
+    "answer": "hello i am shristy's bot. what are you looking for today ?"
+  },
+  {
+    "question": "i want to know about Ai",
+    "answer": "Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems capable of performing tasks that typically require human intelligence. These tasks include understanding natural language, recognizing speech and images, learning from data, making decisions, and solving complex problems. Unlike traditional programs that follow fixed rules, AI systems can adapt and improve through experience, often using techniques like machine learning and neural networks. From voice assistants like Siri and Alexa to recommendation engines on Netflix and self-driving cars, AI is becoming a powerful part of everyday life, helping machines behave more intelligently and interact more naturally with humans."
+  },
+  {
+    "question": "naa i want to know in hinglish",
+    "answer": "Artificial Intelligence (AI) ek aisi technology hai jo machines ko insaano ki tarah sochne, seekhne aur kaam karne ki ability deti hai. Jaise insaan samajh kar faisle lete hain, waise hi AI wale systems bhi language samajh sakte hain, images pehchaan sakte hain, data se seekh sakte hain, aur decisions le sakte hain. Normal software bas instructions follow karta hai, lekin AI khud se improve karta hai — jaise machine learning ke through. Aaj ke time me AI har jagah hai: Siri aur Alexa jaise voice assistants, Netflix ke recommendations, self-driving cars — sab AI ka use karte hain. Ye technology machines ko zyada smart banati hai, taaki wo humans ke saath natural tarike se interact kar saken."
+  },
+  {
+    "question": "wow thank you so much",
+    "answer": "your welcome bbg go slayyyy...!!!"
+  }
+]
